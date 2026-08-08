@@ -165,7 +165,7 @@ to confirm the deployment.
 ## 📁 Project Structure
 
 ```text
-retailedge-aws/
+CLOUD PROJECT/
 ├── architecture/
 │   └── gg_260809_011558.jpg.jpeg
 ├── environments/
@@ -186,8 +186,12 @@ retailedge-aws/
 ├── .gitignore
 └── README.md
 ```
+## 🎥 Project Demo
+
+[▶️ Watch the Project Demo](./architecture/Test.mp4)
 
 ---
+
 
 ## 👤 Author
 
