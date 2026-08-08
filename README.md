@@ -21,7 +21,7 @@ An end-to-end cloud migration strategy and Infrastructure as Code (IaC) implemen
 The system is deployed across **two Availability Zones (AZs)** within a custom VPC, enforcing strict network isolation across Public, Private Application, and Isolated Database subnets:
 
 <p center">
-  <img src="./architecture-diagram.png" alt="AWS Three-Tier Architecture Diagram" width="100%">
+  <img src="C:\Users\OVER CLOCK\Downloads\gg_260809_011558.jpg.jpeg" alt="AWS Three-Tier Architecture Diagram" width="100%">
 </p>
 
 ---
