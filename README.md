@@ -9,7 +9,7 @@ The architecture provides **high availability, scalability, security, and automa
 ## 🏠 Architecture
 
 <p align="center">
-  <img src="./architecture-diagram.png" alt="AWS Three-Tier Architecture Diagram" width="100%">
+  <img src="./architecture/image.png" alt="AWS Three-Tier Architecture Diagram" width="100%">
 </p>
 The infrastructure is deployed across **two Availability Zones** using a custom VPC with:
 
