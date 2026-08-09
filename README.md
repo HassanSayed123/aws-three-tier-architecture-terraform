@@ -8,7 +8,7 @@ The architecture provides **high availability, scalability, security, and automa
 
 ## 🏠 Architecture
 
-![RetailEdge AWS Three-Tier Architecture](./architecture/gg_260809_011558.jpg.jpeg)
+![RetailEdge AWS Three-Tier Architecture](./architecture/image.jpg.jpeg)
 
 The infrastructure is deployed across **two Availability Zones** using a custom VPC with:
 
